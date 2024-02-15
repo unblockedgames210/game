@@ -1,0 +1,51 @@
+.index{
+  background: linear-gradient(
+    to bottom,
+    cadetblue 0%,
+    cadetblue 86%,
+    aqua 86%
+  )
+}
+.adidas{
+  background: linear-gradient(
+    to bottom,
+    cadetblue 0%,
+    cadetblue 90.5%,
+    aqua 90.5%
+  )
+}
+.sandwich{
+  background: linear-gradient(
+    to bottom,
+    cadetblue 0%,
+    cadetblue 84%,
+    aqua 84%
+  )
+}
+.bob{
+  color: black;
+  text-decoration-line: none
+}
+p{
+  font-family: "times new roma", serif
+}
+h1{
+  color:forestgreen;
+  text-align:center;
+  text-decoration-line: underline;
+  font-style: oblique;
+  font-family: fantasy;
+  text-shadow: 2px 2px darkgray
+}
+.sandy{
+  color:lime;
+  text-align: right
+}
+img{
+  border-style:solid;
+  border-color: gray;
+  border-width: 4px
+}
+.sand{
+  border-style:none
+}
