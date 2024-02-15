@@ -1,0 +1,28 @@
+body{
+  background: linear-gradient(
+    to right,
+    red 0%,
+    red 14%,
+    orange 14%,
+    orange 28%,
+    yellow 28%,
+    yellow 42%,
+    limegreen 42%,
+    limegreen 56%,
+    blue 56%,
+    blue 70%,
+    purple 70%,
+    purple 85%,
+    violet 85%,
+    violet 100%
+  )
+}
+.not{
+  font-size: 90px;
+  text-align: right;
+  color: lightblue
+}
+loo{
+  color: black;
+  text-decoration-line: none
+}
